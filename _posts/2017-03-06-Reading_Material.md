@@ -7,6 +7,7 @@ categories:
 ## Learning Objective
 <br>
 1. At the end of reading this material you should be able to briefly define the field of evolutionary development. 
+2. Explain how time is conveyed on a phylogenetic tree.
 
 <br>
 <hr>
@@ -16,7 +17,7 @@ categories:
 <br>
 
 1. Read the introduction section of the [wikipedia article on evolutionary development](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology). - **5 min read**
-2. Analyze each of these figures: <a href="{{ site.baseurl }}/img/figure1_evodevo.jpg">Figure 1</a>, and <a href="{{ site.baseurl }}/img/figure2_evodevo.jpg">Figure 2</a>. - **5 min each figure**
+2. Analyze each of these figures: <a href="{{ site.baseurl }}/img/figure1_evodevo.jpg">Figure 1</a> and <a href="{{ site.baseurl }}/img/figure2_evodevo.jpg">Figure 2</a>. - **5 min each figure**
 3. Read over this quick quide on how to [read a phylogenetic tree](http://evolution.berkeley.edu/evolibrary/article/evo_05). - **5 min read**
 4. Read <a href="{{ site.baseurl }}/html/Diversification_of_insect_wing_morphology.html">Diversification of Insect Wing Morphology</a>. The goal of this material is to understand one example of how Evo-Devo scientists approach a question.  You do not need  to understand the details. - **10 min read**
 
