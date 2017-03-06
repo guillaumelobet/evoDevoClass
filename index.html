@@ -1,0 +1,13 @@
+---
+layout: default
+title: SCIE-123-01, Alive! The Art and Poetics of Biology - Evo Devo Class
+---
+
+<div id="home">
+  <h1>Labs</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
