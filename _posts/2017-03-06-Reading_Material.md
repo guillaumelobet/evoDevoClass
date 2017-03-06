@@ -4,24 +4,20 @@ title:  Reading Material before class
 date:   2017-03-06 00:14:21
 categories: 
 ---
-
-# Evolutionary Development (Evo Devo)
-## Preparing for class
-
 **Learning Objective**: At the end of analyzing this material you should be able to define the field of evolutionary development. 
 
-
+< br />
 1. Learn how to [reading a Phylogenetic Tree](http://evolution.berkeley.edu/evolibrary/article/evo_05) - **5 min read**
 2. Read the introduction section of the [wikipedia article on Evolutionary Development](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology). **5 min read**
 3. Analyze each of these figures: Figure 1, Figure 2. **5 min each figure**
 4. Read the article below on Diversification of Insect Morphology. The goal of this material is to understand one example of how Evo-Devo scientists approach a question.  You do not need to understand the details. **10 min read**
 
-
+< br />
 
 ### Still want to delve deeper?
 1. [Evo-Devo and an Expanding Evolutionary Synthesis: A Genetic Theory of Morphological Evolution]()
 
-
+<br />
 ## Diversiﬁcation of insect wing morphology
 
 Although all modern Winged insects bear two pairs of Wings, many structural, functional, and morphological differences exist between forewings and hindwings both Within and between species (Fig. 5.12). For example, the wings of dragonﬂies (Odonata) appear rather similar, but
