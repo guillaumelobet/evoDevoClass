@@ -19,15 +19,21 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+h1 {
+  font-size: 150%; color: #323232}
+
+h2 {
+  font-size: 130%; color: #323232}
+
+h3 {
+  font-size: 120%; color: #323232 }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+p { margin: 1em 0; color: #323232;}
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #ce7481; text-decoration: none;}
+a:hover   { color: #8f89c1; text-decoration: none;}
+a:visited { color: #ce7481; text-decoration: none;}
 
 /*****************************************************************************/
 /*
@@ -74,11 +80,11 @@ a:visited { color: #a0a; }
 }
 
 .title a {
-  color: #a00;
+  color: #385278;
 }
 
 .title a:hover {
-  color: #000;
+  color: #5b86c4;
 }
 
 .header a.extra {
