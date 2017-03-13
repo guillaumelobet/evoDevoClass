@@ -34,7 +34,7 @@ Start at highest level (whole structure given), and detail features in your illu
 2. Locate these organs: sepals, petals, anthers, stigma, and ovary. How many of each? Does each organ of the same look the same? Is there fusion? 
 3. Which organs make your flower unique?  Are there textures that are especially interesting? 
 
-</br> 
+<br/> 
 
 ## Part 2 -  Compare with your species closest relative.
 
