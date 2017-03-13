@@ -6,7 +6,8 @@ categories:
 ---
 ## Learning Objective
 <br>
-1. At the end of reading this material you should be able to briefly define the field of evolutionary development. 
+At the end of reading this material you should be able to 
+1. Briefly define the field of evolutionary development. 
 2. Explain how time is conveyed on a phylogenetic tree.
 
 <br>
