@@ -30,9 +30,9 @@ At the end of reading this material you should be able to
 
 ## If you want to delve deeper (not required)
 
-*I'll add more as the week goes on*
-
 1. <a href="{{ site.baseurl }}/docs/carroll.pdf">Evo-Devo and an expanding evolutionary synthesis: A genetic theory of morphological evolution</a>
+2. [From DNA to Diversity](https://www.amazon.com/DNA-Diversity-Molecular-Genetics-Evolution/dp/1405119500): A great text book.
+3. [Endless Forms Most Beautiful](https://www.amazon.com/Endless-Forms-Most-Beautiful-Science/dp/0393327795): Book.
 
 
 <br><br><br><br>

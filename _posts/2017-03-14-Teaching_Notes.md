@@ -7,7 +7,7 @@ categories:
 
 ## About Class Design
 
-This class was designed for undergraduate students attending San Francisco Art Institute. These students were Fine Art majors with little science background.  
+This class was designed for undergraduate students attending San Francisco Art Institute. These students were Fine Art majors with little science background.
 
 ## Goals of Course
 
@@ -25,4 +25,18 @@ The class went relatively smoothly. The students thouroughly enjoy the dissectio
 
 ## Next time
 
-I would have a lecture part about flowers and be more specific about what is expected of them before handing out the flowers.  Some of the students just started hacking away immediatley and ruined the flowers. 
+I would have a lecture part about flowers and be more specific about what is expected of them before handing out the flowers.  Some of the students just started hacking away immediatley and ruined the flowers.
+
+I forsee this class could be expanded in many ways to multiple classes going into phylogenetic tree and molecular evolution.
+
+## Images From Class
+
+<img src="{{ site.baseurl }}/img/IMG_2261.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2265.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2266.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2267.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2268.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2269.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2270.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2271.JPG" style="width: 100%;height: 100%"/>​
+<img src="{{ site.baseurl }}/img/IMG_2272.JPG" style="width: 100%;height: 100%"/>​
