@@ -1,4 +1,4 @@
-This is a site built and maintained by Ciera Martinez for Genomics BIS180L UC Davis.  
+This is a site built and maintained by Ciera Martinez.
 
 Written with [Markdown](https://daringfireball.net/projects/markdown/).  
 

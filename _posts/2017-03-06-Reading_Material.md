@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Reading material before class 
-date:   2017-03-05 00:14:21
+title:  1. Reading material before class 
+date:   2017-03-06 00:14:21
 categories: 
 ---
+
 ## Learning Objective
 <br>
 At the end of reading this material you should be able to 

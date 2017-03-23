@@ -1,23 +1,59 @@
 ---
 layout: post
-title:  Lab Section - Inventory of Angiosperms
+title:  3. Lab Section - Inventory of Angiosperms
 date:   2017-03-13 00:16:21
 categories: 
 ---
 
-Evolutionary development (evo-devo) is the study of comparing the development and morphology of life, often across species, to determine how developmental processes evolve.  In this lab we will walk through how interesting evo-devo research questions are created. Every scientific experiment begins with careful observation and understanding of the system being studied.  This lab will explore the morphological variation of flowers.
+## Learning Objectives
 
-## Background - Flower / Inflorescence Anatomy
+At the end of this lab section you should be able to:
+
+1. Dissect and inspect the anatomy of a flower. 
+2. Differentiate between a single flower and an inflorescence.
+3. Compare and contrast flower organs between species.
+4. Interpret time on a phylogenetic tree. 
+5. Be able to identify the last point on a tree when two or more species shared a common ancestor. 
+6. Define what species divergence means.
+7. Develop a research question.
+8. Use Google Scholar to research a topic.
+
+<br/>
+
+## Supplies
+
+- drawing materials 
+- white paper
+- razor blades
+- [black foam sheets](https://www.amazon.com/Foam-Sheet-X12-2mm-Black-pack/dp/B016YNB8D4/ref=sr_1_2?ie=UTF8&qid=1490136700&sr=8-2&keywords=black+foam+sheets)
+- [small pins](https://www.amazon.com/gp/product/B0054G5VNG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) 
+- knife (for some larger flowers)
+- handouts: 1. [Tree]({{ site.baseurl }}/img/phylogeny.jpg) 2. [List of species]({{ site.baseurl }}/html/species.html)
+
+<br/>
+
+## Background 
+<br/>
+
+### Evolutionary Development
+
+Evolutionary development (evo-devo) is the study of comparing the development and morphology of life, often across species, to determine how developmental processes evolve.  In this lab we will walk through how interesting evo-devo research questions are created. Every scientific experiment begins with careful observation and understanding of the system being studied.  This lab will explore and develop a research question on the morphological variation of flowers.
+
+###  Flower / Inflorescence Anatomy
 
 The reproductive parts of a plants, flowers, originated ~130 mya in the Cretaceous period. Flowers were an incredibly useful feature for plants, largely because they allowed the interaction with insects. Pollinators and plants co-evolved and both spread widely across the planet.  Many flowers are bisexual, possessing both female and male organs, but there is a [wide spectrum](https://en.wikipedia.org/wiki/Plant_reproductive_morphology#Terminology) of how sexual morphology can be manifested. Although the overall shape of flowers is widely diverse, most flowers have very similar anatomy and share most of same organs and arrangement. 
 
-![flower anatomy](http://a1128.g.akamai.net/7/1128/497/0001/origin-d5.scene7.com/is/image/ProvideCommerce/flower_anatomy_rd3_blog140226).  
+![flower anatomy](http://a1128.g.akamai.net/7/1128/497/0001/origin-d5.scene7.com/is/image/ProvideCommerce/flower_anatomy_rd3_blog140226). 
+<p align="right">Source:<i> proflowers.com</i></p>
 
 Flowers are often clustered together on structures called inflorescences. These structures are also incredibly variable and can sometimes resemble a single flower.
 
 <center><img src="https://s-media-cache-ak0.pinimg.com/564x/04/2a/67/042a677a1006fa0196aa629a2bafc8f7.jpg" style="width: 100%; height: 100%"/>​</center>
+<p align="right">Source: <i>environment.gov.au</i></p>
 
 ## Part 1 - Inventory and Illustrate 
+
+**Time alloted**: 45 minutes
 
 **Overall Goal**: Create a botanical diagram illustrating the major features of your flower.  
 
@@ -30,6 +66,7 @@ Botanical illustration is the art of depicting the form, color, and details of p
 Start at highest level (whole structure given), and detail features in your illustration as you cut into the flower. Cut very carefully. Use pins to   dissect the flower in an organized manner. Group similar structures.
 
 **Questions to help you identify your the flower/inflorescence features**
+
 1. How many flower units?  Are there multiple flowers on an inflorescence?  What is the inflorescence branching structure?
 2. Locate these organs: sepals, petals, anthers, stigma, and ovary. How many of each? Does each organ of the same look the same? Is there fusion? 
 3. Which organs make your flower unique?  Are there textures that are especially interesting? 
@@ -38,9 +75,12 @@ Start at highest level (whole structure given), and detail features in your illu
 
 ## Part 2 -  Compare with your species closest relative.
 
+**Time alloted**: 20 minutes
+
 **Overall Goal**: To compare floral morphology between closely related species and hypothesize the ancestral flower shape.
 
 <center><img src="{{ site.baseurl }}/img/phylogeny.jpg" style="width: 100%;height: 100%"/>​</center>
+<p align="right">Source: simplified based on<a href = "http://www.mobot.org/MOBOT/research/APweb/welcome.html"> this tree</a>.</p>
 
 Look on the phylogeny above.  Locate your species order and find which species is the closest related to yours. Make groups of 2 or 3 people. Locate where on the tree these species shared an ancestor. This is when in evolutionary history that something happened that cause one species to radiate into more species. 
 
@@ -56,11 +96,15 @@ Look on the phylogeny above.  Locate your species order and find which species i
 
 ## Part 3 - Compare one feature across all species. 
 
+**Time alloted**: 30 minutes
+
 In the last step of part 2, you chose the floral feature that is most interesting to you.  Whether you picked petal size, stamen number, flower symmetry or petal color, you now have to describe this feature in each of the species in the classroom.  You can describe with text or illustration. 
 
 <br/>
 
 ## Part 4 - Develop a question and research what is known.
+
+**Time alloted**: One week homework assignment
 
 You can choose any feature that you have come across in lab today.  Ask one question about this feature. For example: What determines stamen size? What determines presence or absence of male parts?  Why are some petals ruffled? Pick any question. You then will try to find out if anyone has researched this or anything closely related to this question before.
 
